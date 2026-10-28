@@ -1,0 +1,6 @@
+{
+  "name": "NexCloud",
+  "description": "Personal cloud storage with secure file backup, folder management, and cloud sync powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
